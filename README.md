@@ -92,7 +92,7 @@ Vision-por-Ordenador/
 
 **Gonzalo Velasco Lucas**  
 **Lucía Lozano Isac**  
-Estudiante de Ingeniería Matemática e Inteligencia Artificial · ICAI, Comillas
+    - Estudiantes de Ingeniería Matemática e Inteligencia Artificial · ICAI, Comillas
 
 [![GitHub](https://img.shields.io/badge/GitHub-luulozanoo-181717?logo=github)](https://github.com/luulozanoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?logo=linkedin&logoColor=white)]([TU_ENLACE_DE_LINKEDIN])
