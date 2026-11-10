@@ -90,8 +90,8 @@ Vision-por-Ordenador/
 
 ## 👩‍💻 Autores
 
-**Gonzalo Velasco Lucas**/
-**Lucía Lozano Isac**/
+!**Gonzalo Velasco Lucas**
+!**Lucía Lozano Isac**
 Estudiante de Ingeniería Matemática e Inteligencia Artificial · ICAI, Comillas
 
 [![GitHub](https://img.shields.io/badge/GitHub-luulozanoo-181717?logo=github)](https://github.com/luulozanoo)
