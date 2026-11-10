@@ -30,7 +30,8 @@ resultados y una explicación de lo que ocurre en cada etapa.
 | 1 | 🎨 [Intro espacios color](./Pr%C3%A1ctica%201%20-%20Intro%20espacios%20color) | RGB, HSV y otros espacios de color; segmentación por color con máscaras y umbrales |
 | 2 | 📷 [Calibración de Cámara](./Pr%C3%A1ctica%202%20-%20Calibraci%C3%B3n%20de%20C%C3%A1mara) | Parámetros intrínsecos y extrínsecos, distorsión y calibración con patrón de tablero |
 | 3 | 🧪 [Procesamiento de imágenes](./Pr%C3%A1ctica%203%20-%20Procesamiento%20de%20im%C3%A1genes) | Filtro gaussiano, Sobel, Canny y operadores morfológicos |
-| 4 | 🧩 [Extracción de Características](./Pr%C3%A1ctica%204%20-%20Extracci%C3%B3n%20de%20Caracter%C3%ADsticas) | Puntos clave, descriptores y correspondencia entre imágenes, detección de movimiento y seguimiento de objetos
+| 4 | 🧩 [Extracción de Características](./Pr%C3%A1ctica%204%20-%20Extracci%C3%B3n%20de%20Caracter%C3%ADsticas) | Puntos clave, descriptores y correspondencia entre imágenes, detección de movimiento y seguimiento de objetos |
+| 5 | 🎯 [Detección de movimiento y seguimiento de objetos](<./Práctica 5 - Detección de movimiento y seguimiento de objetos>) | Sustracción de fondo, flujo óptico y filtro de Kalman |
 
 ## 🛠️ Tecnologías
 
