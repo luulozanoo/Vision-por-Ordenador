@@ -72,15 +72,11 @@ Vision-por-Ordenador/
 
 ## 🖼️ Resultados
 
-> 💡 *Aquí van capturas o GIFs de tus mejores resultados: segmentación por color,
-> bordes con Canny, correspondencias entre imágenes, seguimiento con Kalman...*
-
-<!-- Ejemplo:
-<p align="center">
-  <img src="ruta/a/tu_imagen.png" width="45%">
-  <img src="ruta/a/otra_imagen.png" width="45%">
-</p>
--->
+![Detección de colores](<Some Results/Detección colores.png>)
+![Detección de esquinas](<Some Results/Detección de esquinas.png>)
+![Filtros](<Some Results/Filtros.png>)
+![Proceso de seguimiento](<Some Results/Proceso seguimiento.png>)
+![Selector de puntos](<Some Results/Selector de puntos.png>)
 
 ## 🎓 Lo que me llevo
 
